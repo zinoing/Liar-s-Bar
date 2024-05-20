@@ -1,0 +1,94 @@
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\ClashRoyale_Server.exe.config
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\ClashRoyale_Server.exe
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\ClashRoyale_Server.pdb
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\Google.Protobuf.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\MySql.Data.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Buffers.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.IO.Pipelines.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Memory.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Text.Json.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\ZstdSharp.dll
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\Google.Protobuf.pdb
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\Google.Protobuf.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\MySql.Data.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Buffers.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.IO.Pipelines.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Memory.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Text.Json.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\obj\Debug\WInter_Portfolio_Project.csproj.AssemblyReference.cache
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\obj\Debug\WInter_Portfolio_Project.csproj.CoreCompileInputs.cache
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\obj\Debug\WInter_Portfolio_Project.csproj.CopyComplete
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\obj\Debug\ClashRoyale_Server.exe
+C:\Users\zinol\OneDrive\바탕 화면\ClashRoyale_Server\ClashRoyale_Server\obj\Debug\ClashRoyale_Server.pdb
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\Google.Protobuf.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\K4os.Compression.LZ4.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\K4os.Hash.xxHash.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\MySql.Data.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\Newtonsoft.Json.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Buffers.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.IO.Pipelines.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Memory.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Numerics.Vectors.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Text.Encodings.Web.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Text.Json.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.ValueTuple.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\ZstdSharp.dll
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\Google.Protobuf.pdb
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\Google.Protobuf.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\K4os.Compression.LZ4.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\K4os.Hash.xxHash.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\MySql.Data.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\Newtonsoft.Json.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Buffers.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.IO.Pipelines.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Memory.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Numerics.Vectors.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Text.Encodings.Web.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Text.Json.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\System.ValueTuple.xml
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\obj\Debug\WInter_Portfolio_Project.csproj.AssemblyReference.cache
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\obj\Debug\WInter_Portfolio_Project.csproj.CoreCompileInputs.cache
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\obj\Debug\WInter_Portfolio_Project.csproj.CopyComplete
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\Assembly-CSharp.exe.config
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\Assembly-CSharp.exe
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\bin\Debug\Assembly-CSharp.pdb
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\obj\Debug\Assembly-CSharp.exe
+C:\Winter_Portfolio_Project\Winter_Portfolio_Project\obj\Debug\Assembly-CSharp.pdb

@@ -1,0 +1,519 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\data\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:data\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\logic\\match\\matchmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:logic\\match\\matchmaker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\protocol\\server\\servertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:protocol\\server\\servertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\protocol\\client\\clienttcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:protocol\\client\\clienttcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\protocol\\client\\clientobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:protocol\\client\\clientobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|c:\\users\\\uC870\uC9C4\uD638\\desktop\\duelofkingdom\\duelofkingdom_server\\duelofkingdom_server\\protocol\\server\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:protocol\\server\\packethandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\logic\\room\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:logic\\room\\gameroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\logic\\battle\\battlelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:logic\\battle\\battlelogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\logic\\battle\\battletimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:logic\\battle\\battletimer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\logic\\room\\gameroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:logic\\room\\gameroommanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\protocol\\packettagpackages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:protocol\\packettagpackages.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\logdata\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:logdata\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\protocol\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:protocol\\networkservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\protocol\\bytebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:protocol\\bytebuffer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\logdata\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:logdata\\log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\data\\carddata\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:data\\carddata\\card.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zinol\\AppData\\LocalLow\\DefaultCompany\\Winter_Portfolio_Project\\card_collection.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\logdata\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:logdata\\log.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\data\\ai\\stat\\basestat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:data\\ai\\stat\\basestat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\data\\ai\\stat\\unitstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:data\\ai\\stat\\unitstat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\data\\ai\\stat\\lifestat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:data\\ai\\stat\\lifestat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\data\\clientinfo\\account\\clientaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom_Server.csproj|solutionrelative:data\\clientinfo\\account\\clientaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zinol\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Winter_Portfolio_Project\\Winter_Portfolio_Project\\Assets\\Scripts\\Client\\Network\\ClientTCP.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\protocol\\server\\servertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom.csproj|solutionrelative:protocol\\server\\servertcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom.csproj|solutionrelative:constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\logdata\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom.csproj|solutionrelative:logdata\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom.csproj|C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{096C6996-5B5B-4B41-BCF5-F506A382D1F4}|DuelOfKingdom.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacketHandler.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\Server\\PacketHandler.cs",
+              "RelativeDocumentMoniker": "Protocol\\Server\\PacketHandler.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\Server\\PacketHandler.cs",
+              "RelativeToolTip": "Protocol\\Server\\PacketHandler.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAswCkAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BattleLogic.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Logic\\Battle\\BattleLogic.cs",
+              "RelativeDocumentMoniker": "Logic\\Battle\\BattleLogic.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Logic\\Battle\\BattleLogic.cs",
+              "RelativeToolTip": "Logic\\Battle\\BattleLogic.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAywDEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BattleTimer.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Logic\\Battle\\BattleTimer.cs",
+              "RelativeDocumentMoniker": "Logic\\Battle\\BattleTimer.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Logic\\Battle\\BattleTimer.cs",
+              "RelativeToolTip": "Logic\\Battle\\BattleTimer.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAywDcAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\LogData\\Logger.cs",
+              "RelativeDocumentMoniker": "LogData\\Logger.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\LogData\\Logger.cs",
+              "RelativeToolTip": "LogData\\Logger.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PacketTagPackages.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\PacketTagPackages.cs",
+              "RelativeDocumentMoniker": "Protocol\\PacketTagPackages.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\PacketTagPackages.cs",
+              "RelativeToolTip": "Protocol\\PacketTagPackages.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClientObject.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\Client\\ClientObject.cs",
+              "RelativeDocumentMoniker": "Protocol\\Client\\ClientObject.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\Client\\ClientObject.cs",
+              "RelativeToolTip": "Protocol\\Client\\ClientObject.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAwwBsAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ClientTCP.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\Client\\ClientTCP.cs",
+              "RelativeDocumentMoniker": "Protocol\\Client\\ClientTCP.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\Client\\ClientTCP.cs",
+              "RelativeToolTip": "Protocol\\Client\\ClientTCP.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBAAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ServerTCP.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\Server\\ServerTCP.cs",
+              "RelativeDocumentMoniker": "Protocol\\Server\\ServerTCP.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\Server\\ServerTCP.cs",
+              "RelativeToolTip": "Protocol\\Server\\ServerTCP.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAApwDwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MatchMaker.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Logic\\Match\\MatchMaker.cs",
+              "RelativeDocumentMoniker": "Logic\\Match\\MatchMaker.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Logic\\Match\\MatchMaker.cs",
+              "RelativeToolTip": "Logic\\Match\\MatchMaker.cs",
+              "ViewState": "AQIAADcAAADA//////8nwEMAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseManager.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\DatabaseManager.cs",
+              "RelativeDocumentMoniker": "Data\\DatabaseManager.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\DatabaseManager.cs",
+              "RelativeToolTip": "Data\\DatabaseManager.cs",
+              "ViewState": "AQIAAG0AAACAmZmZmZktwK0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GameRoom.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Logic\\Room\\GameRoom.cs",
+              "RelativeDocumentMoniker": "Logic\\Room\\GameRoom.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Logic\\Room\\GameRoom.cs",
+              "RelativeToolTip": "Logic\\Room\\GameRoom.cs",
+              "ViewState": "AQIAAG0AAAAAAAAAAAAcwIgAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.632Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GameRoomManager.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Logic\\Room\\GameRoomManager.cs",
+              "RelativeDocumentMoniker": "Logic\\Room\\GameRoomManager.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Logic\\Room\\GameRoomManager.cs",
+              "RelativeToolTip": "Logic\\Room\\GameRoomManager.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAYwD0AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.722Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Singleton.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Singleton.cs",
+              "RelativeDocumentMoniker": "Singleton.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Singleton.cs",
+              "RelativeToolTip": "Singleton.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T10:52:31.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Constants.cs",
+              "RelativeToolTip": "Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ByteBuffer.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\ByteBuffer.cs",
+              "RelativeDocumentMoniker": "Protocol\\ByteBuffer.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\ByteBuffer.cs",
+              "RelativeToolTip": "Protocol\\ByteBuffer.cs",
+              "ViewState": "AQIAAC4AAACAzMzMzMwswD4AAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "NetworkService.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\NetworkService.cs",
+              "RelativeDocumentMoniker": "Protocol\\NetworkService.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\NetworkService.cs",
+              "RelativeToolTip": "Protocol\\NetworkService.cs",
+              "ViewState": "AQIAAJIAAAAAyMzMzMz8v44AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Log.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\LogData\\Log.cs",
+              "RelativeDocumentMoniker": "LogData\\Log.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\LogData\\Log.cs",
+              "RelativeToolTip": "LogData\\Log.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACIAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-05-04T11:04:31.937Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Card.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\CardData\\Card.cs",
+              "RelativeDocumentMoniker": "Data\\CardData\\Card.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\CardData\\Card.cs",
+              "RelativeToolTip": "Data\\CardData\\Card.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAqwDYAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:06:39.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "card_collection.json",
+              "DocumentMoniker": "C:\\Users\\zinol\\AppData\\LocalLow\\DefaultCompany\\Winter_Portfolio_Project\\card_collection.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\zinol\\AppData\\LocalLow\\DefaultCompany\\Winter_Portfolio_Project\\card_collection.json",
+              "ToolTip": "C:\\Users\\zinol\\AppData\\LocalLow\\DefaultCompany\\Winter_Portfolio_Project\\card_collection.json",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\zinol\\AppData\\LocalLow\\DefaultCompany\\Winter_Portfolio_Project\\card_collection.json",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-27T17:21:18.865Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "log.txt",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\LogData\\log.txt",
+              "RelativeDocumentMoniker": "LogData\\log.txt",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\LogData\\log.txt",
+              "RelativeToolTip": "LogData\\log.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-05-04T07:21:47.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UnitStat.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\AI\\STAT\\UnitStat.cs",
+              "RelativeDocumentMoniker": "Data\\AI\\STAT\\UnitStat.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\AI\\STAT\\UnitStat.cs",
+              "RelativeToolTip": "Data\\AI\\STAT\\UnitStat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvx0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BaseStat.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\AI\\STAT\\BaseStat.cs",
+              "RelativeDocumentMoniker": "Data\\AI\\STAT\\BaseStat.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\AI\\STAT\\BaseStat.cs",
+              "RelativeToolTip": "Data\\AI\\STAT\\BaseStat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LifeStat.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\AI\\STAT\\LifeStat.cs",
+              "RelativeDocumentMoniker": "Data\\AI\\STAT\\LifeStat.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\AI\\STAT\\LifeStat.cs",
+              "RelativeToolTip": "Data\\AI\\STAT\\LifeStat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswAkAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.733Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ClientAccount.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\ClientInfo\\Account\\ClientAccount.cs",
+              "RelativeDocumentMoniker": "Data\\ClientInfo\\Account\\ClientAccount.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Data\\ClientInfo\\Account\\ClientAccount.cs",
+              "RelativeToolTip": "Data\\ClientInfo\\Account\\ClientAccount.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAABYwAwAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ClientTCP.cs",
+              "DocumentMoniker": "C:\\Users\\zinol\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Winter_Portfolio_Project\\Winter_Portfolio_Project\\Assets\\Scripts\\Client\\Network\\ClientTCP.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\zinol\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Winter_Portfolio_Project\\Winter_Portfolio_Project\\Assets\\Scripts\\Client\\Network\\ClientTCP.cs",
+              "ToolTip": "C:\\Users\\zinol\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Winter_Portfolio_Project\\Winter_Portfolio_Project\\Assets\\Scripts\\Client\\Network\\ClientTCP.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\zinol\\OneDrive\\\uBC14\uD0D5 \uD654\uBA74\\Winter_Portfolio_Project\\Winter_Portfolio_Project\\Assets\\Scripts\\Client\\Network\\ClientTCP.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T04:41:07.068Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "ServerTCP.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\Server\\ServerTCP.cs",
+              "RelativeDocumentMoniker": "Protocol\\Server\\ServerTCP.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Protocol\\Server\\ServerTCP.cs",
+              "RelativeToolTip": "Protocol\\Server\\ServerTCP.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAjwDYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\LogData\\Logger.cs",
+              "RelativeDocumentMoniker": "LogData\\Logger.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\LogData\\Logger.cs",
+              "RelativeToolTip": "LogData\\Logger.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwDQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Constants.cs",
+              "RelativeDocumentMoniker": "Constants.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Constants.cs",
+              "RelativeToolTip": "Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\\uC870\uC9C4\uD638\\Desktop\\DuelOfKingdom\\DuelOfKingdom_Server\\DuelOfKingdom_Server\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvxAAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T07:21:47.737Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

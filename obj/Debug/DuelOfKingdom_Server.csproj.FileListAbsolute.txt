@@ -1,0 +1,94 @@
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Assembly-CSharp.exe.config
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Assembly-CSharp.exe
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Assembly-CSharp.pdb
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Google.Protobuf.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\MySql.Data.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Buffers.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.IO.Pipelines.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Memory.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Text.Json.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\ZstdSharp.dll
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Google.Protobuf.pdb
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Google.Protobuf.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\MySql.Data.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Buffers.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.IO.Pipelines.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Memory.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Text.Json.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\obj\Debug\DuelOfKingdom_Server.csproj.AssemblyReference.cache
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\obj\Debug\DuelOfKingdom_Server.csproj.CoreCompileInputs.cache
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\obj\Debug\DuelOfKingdom_Server.csproj.CopyComplete
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\obj\Debug\Assembly-CSharp.exe
+C:\Users\zinol\OneDrive\바탕 화면\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\obj\Debug\Assembly-CSharp.pdb
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\obj\Debug\DuelOfKingdom_Server.csproj.AssemblyReference.cache
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\obj\Debug\DuelOfKingdom_Server.csproj.CoreCompileInputs.cache
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\obj\Debug\Assembly-CSharp.exe
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\obj\Debug\Assembly-CSharp.pdb
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Assembly-CSharp.exe.config
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Assembly-CSharp.exe
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Assembly-CSharp.pdb
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Google.Protobuf.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\MySql.Data.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Newtonsoft.Json.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Buffers.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.IO.Pipelines.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Memory.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Text.Json.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.ValueTuple.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\ZstdSharp.dll
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Google.Protobuf.pdb
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Google.Protobuf.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\MySql.Data.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\Newtonsoft.Json.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Buffers.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.IO.Pipelines.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Memory.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Text.Json.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\bin\Debug\System.ValueTuple.xml
+C:\Users\조진호\Desktop\DuelOfKingdom\DuelOfKingdom_Server\DuelOfKingdom_Server\obj\Debug\DuelOfKi.40764A93.Up2Date

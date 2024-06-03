@@ -1,7 +1,7 @@
 # Duel of Kingdom Server
 
 ## Description
-Socket server implemented in C#. 
+Socket server implemented in C#.  
 Watch the video here: [https://www.youtube.com/watch?v=tywLCf7nhVU](https://www.youtube.com/watch?v=tywLCf7nhVU)
 
 ## Team

@@ -7,12 +7,6 @@ void LobbyManager::showIntro() {
 
 void LobbyManager::showLobby()
 {
-    LoginManager& loginManager = Singleton<LoginManager>::getInstance();
-    NetworkManager& networkManager = Singleton<NetworkManager>::getInstance();
-
-    networkManager.init();
-    networkManager.connectWithServer();
-
     cout << "press 1 to login\n"
         "press 2 to register\n";
 
@@ -20,10 +14,10 @@ void LobbyManager::showLobby()
     cin >> input;
 
     if (input == LOG_IN) {
-        loginManager.login();
+        LoginManager::login();
     }
     else if (input == REGISTER) {
-        loginManager.registerUser();
+        LoginManager::registerUser();
     }
     else {
         printf("Wrong input");

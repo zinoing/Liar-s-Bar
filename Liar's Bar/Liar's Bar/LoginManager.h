@@ -2,8 +2,12 @@
 
 #include <iostream>
 #include <string>
-#include <windows.h>
+
 #include "Singleton.h"
+#include "NetworkManager.h"
+#include "PacketManager.h"
+#include "PacketType.h"
+#include "PacketBuffer.h"
 
 using namespace std;
 
@@ -12,13 +16,12 @@ class LoginManager
 public:
 	LoginManager() = default;
 
-	void login();
-	void registerUser();
-
+	static void login();
+	static void registerUser();
 private:
-	string askForId();
-    string askForPassword();
-	bool checkIdExists(const string& id);
-	bool askForUserConfirmation(const string& id, const string& password);
+	static string askForId();
+	static string askForPassword();
+	static bool checkIdExists(const string& id);
+	static bool askForUserConfirmation(const string& id, const string& password);
 };
 

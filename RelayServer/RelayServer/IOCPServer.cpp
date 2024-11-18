@@ -71,18 +71,23 @@ void IOCPServer::acceptConnection()
 			return;
 		}
 
-		printf("Client Accepted\n");
 
 		LPPER_HANDLE_DATA handleInfo = new PER_HANDLE_DATA();
 		handleInfo->sock = acceptSock;
 		handleInfo->sockAddr = *((struct sockaddr_in*)&acceptAddr);
 
-		ClientInfo client = ClientInfo(handleInfo);
+		// check if this connection is from login server
+		if (handleInfo->sockAddr.sin_port == LOGIN_SERVER_PORT) {
+			cout << "Connected to login server" << endl;
+		}
+
+		ClientInfo* client = new ClientInfo(handleInfo);
 		clients.push_back(client);
+		printf("Client Accepted\n");
 
-		CreateIoCompletionPort((HANDLE)acceptSock, hCompPort, (ULONG_PTR)&client, 0);
+		CreateIoCompletionPort((HANDLE)acceptSock, hCompPort, (ULONG_PTR)client, 0);
 
-		client.receiveMessage();
+		client->receiveMessage();
 	}
 }
 
@@ -128,6 +133,11 @@ void IOCPServer::workerThread()
 
 		if (completedIOInfo->rwMode == READ) {
 			cout << "Read data: " << completedIOInfo->buffer << endl;
+
+			PacketBuffer pb(completedIOInfo->buffer);
+			pb.readType();
+			cout << "Id: " << pb.readString() << " Password: " << pb.readString() << endl;
+
 			pClientInfo->receiveMessage();
 		}
 		else if (completedIOInfo->rwMode == WRITE) {

@@ -2,6 +2,9 @@
 C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\ClientInfo.cpp(21,26): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
 C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\ClientInfo.cpp(27,29): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
   IOCPServer.cpp
+  PacketBuffer.cpp
+C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\PacketBuffer.cpp(62,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PacketManager.cpp
   RelayServer.cpp
   Generating Code...
   RelayServer.vcxproj -> C:\Users\zino\Desktop\Liar's Bar\RelayServer\x64\Debug\RelayServer.exe

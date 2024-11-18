@@ -5,8 +5,17 @@ void LoginManager::login()
     system("cls");
     string id = askForId();
     string password = askForPassword();
-    if (!askForUserConfirmation(id, password)) login();
+    //if (!askForUserConfirmation(id, password)) login();
 
+    PacketBuffer packetBuffer;
+    packetBuffer.writeString(id);
+    packetBuffer.writeString(password);
+
+    NetworkManager* networkManager = NetworkManager::getInstance();
+    const char* serializedData = PacketManager::serializePacket(ClientPacketType::REQ_LOG_IN, packetBuffer);
+    networkManager->sendMessage(serializedData);
+
+    delete[] serializedData;
     return;
 }
 

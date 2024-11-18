@@ -10,7 +10,7 @@
 
 using namespace std;
 
-class LobbyManager
+class LobbyManager : public Singleton<LobbyManager>
 {
 public:
 	void showIntro();

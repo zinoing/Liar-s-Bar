@@ -2,20 +2,16 @@
 
 template <typename T>
 class Singleton {
-
-	static T instance;
-
-	Singleton() = default;
-	Singleton(const Singleton&) = delete;
-	Singleton& operator=(const Singleton&) = delete;
-	Singleton(Singleton&&) = delete;
-	Singleton& operator=(Singleton&&) = delete;
+	static T* instance;
 
 public:
-	static T& getInstance() {
+	static T* getInstance() {
+		if (instance == nullptr)
+			instance = new T();
+
 		return instance;
 	}
 };
 
 template <typename T>
-T Singleton<T>::instance;
+T* Singleton<T>::instance = nullptr;

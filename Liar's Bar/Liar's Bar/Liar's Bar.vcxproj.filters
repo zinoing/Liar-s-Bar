@@ -30,6 +30,9 @@
     <ClCompile Include="PacketManager.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PacketBuffer.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="LoginManager.h">
@@ -45,6 +48,12 @@
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="PacketManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketType.h">
+      <Filter>Source Files</Filter>
+    </ClInclude>
+    <ClInclude Include="PacketBuffer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

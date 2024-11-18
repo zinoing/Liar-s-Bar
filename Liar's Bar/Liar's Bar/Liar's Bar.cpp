@@ -8,10 +8,13 @@ using namespace std;
 
 int main()
 {
-    LobbyManager& lobbyManager = Singleton<LobbyManager>::getInstance();
+    NetworkManager* networkManager = NetworkManager::getInstance();
+    networkManager->init();
+    networkManager->connectWithServer();
 
-    lobbyManager.showIntro();
-    lobbyManager.showLobby();
+    LobbyManager* lobbyManager = LobbyManager::getInstance();
+    lobbyManager->showIntro();
+    lobbyManager->showLobby();
 
     while (1) {}
 }

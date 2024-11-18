@@ -3,10 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\PacketManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -15,32 +11,56 @@
       "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\NetworkManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\NetworkManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\NetworkManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\PacketType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LobbyManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\LobbyManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\NetworkManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\NetworkManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\PacketBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LobbyManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\LobbyManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\Liar\u0027s Bar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_scalar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LoginManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\LoginManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LoginManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\LoginManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\Liar\u0027s Bar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{90B76C72-7FC2-44F1-B1C9-68D036809177}|Liar\u0027s Bar\\Liar\u0027s Bar.vcxproj|solutionrelative:Liar\u0027s Bar\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\WinSock2.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,64 +70,128 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Liar\u0027s Bar.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar.cpp",
-              "RelativeDocumentMoniker": "Liar\u0027s Bar\\Liar\u0027s Bar.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar.cpp",
-              "RelativeToolTip": "Liar\u0027s Bar\\Liar\u0027s Bar.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-15T17:35:56.819Z",
-              "IsPinned": true,
+              "DocumentIndex": 10,
+              "Title": "LoginManager.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LoginManager.h",
+              "RelativeDocumentMoniker": "Liar\u0027s Bar\\LoginManager.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LoginManager.h",
+              "RelativeToolTip": "Liar\u0027s Bar\\LoginManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-16T05:39:32.067Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
+              "Title": "PacketBuffer.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketBuffer.h",
+              "RelativeDocumentMoniker": "Liar\u0027s Bar\\PacketBuffer.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketBuffer.h",
+              "RelativeToolTip": "Liar\u0027s Bar\\PacketBuffer.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T10:41:33.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PacketBuffer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketBuffer.cpp",
+              "RelativeDocumentMoniker": "Liar\u0027s Bar\\PacketBuffer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketBuffer.cpp",
+              "RelativeToolTip": "Liar\u0027s Bar\\PacketBuffer.cpp",
+              "ViewState": "AgIAADwAAAAAAAAAAAAAAFQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T10:44:02.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LobbyManager.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LobbyManager.cpp",
+              "RelativeDocumentMoniker": "Liar\u0027s Bar\\LobbyManager.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LobbyManager.cpp",
+              "RelativeToolTip": "Liar\u0027s Bar\\LobbyManager.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T07:04:51.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "PacketManager.h",
               "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketManager.h",
               "RelativeDocumentMoniker": "Liar\u0027s Bar\\PacketManager.h",
               "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketManager.h",
               "RelativeToolTip": "Liar\u0027s Bar\\PacketManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-18T08:57:31.169Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PacketManager.cpp",
               "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketManager.cpp",
               "RelativeDocumentMoniker": "Liar\u0027s Bar\\PacketManager.cpp",
               "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketManager.cpp",
               "RelativeToolTip": "Liar\u0027s Bar\\PacketManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-18T08:57:51.804Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "NetworkManager.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\NetworkManager.cpp",
+              "RelativeDocumentMoniker": "Liar\u0027s Bar\\NetworkManager.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\NetworkManager.cpp",
+              "RelativeToolTip": "Liar\u0027s Bar\\NetworkManager.cpp",
+              "ViewState": "AgIAADAAAAAAAAAAAAAqwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-17T15:39:25.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "NetworkManager.h",
               "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\NetworkManager.h",
               "RelativeDocumentMoniker": "Liar\u0027s Bar\\NetworkManager.h",
               "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\NetworkManager.h",
               "RelativeToolTip": "Liar\u0027s Bar\\NetworkManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAWAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-17T15:37:05.528Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
+              "Title": "PacketType.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketType.h",
+              "RelativeDocumentMoniker": "Liar\u0027s Bar\\PacketType.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\PacketType.h",
+              "RelativeToolTip": "Liar\u0027s Bar\\PacketType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T10:37:16.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "LobbyManager.h",
               "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LobbyManager.h",
               "RelativeDocumentMoniker": "Liar\u0027s Bar\\LobbyManager.h",
@@ -120,65 +204,77 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "LobbyManager.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LobbyManager.cpp",
-              "RelativeDocumentMoniker": "Liar\u0027s Bar\\LobbyManager.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LobbyManager.cpp",
-              "RelativeToolTip": "Liar\u0027s Bar\\LobbyManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-18T07:04:51.309Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "NetworkManager.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\NetworkManager.cpp",
-              "RelativeDocumentMoniker": "Liar\u0027s Bar\\NetworkManager.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\NetworkManager.cpp",
-              "RelativeToolTip": "Liar\u0027s Bar\\NetworkManager.cpp",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAACcAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-17T15:39:25.987Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "LoginManager.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LoginManager.h",
-              "RelativeDocumentMoniker": "Liar\u0027s Bar\\LoginManager.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LoginManager.h",
-              "RelativeToolTip": "Liar\u0027s Bar\\LoginManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "string.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\string.h",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAuwHsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-16T05:39:32.067Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginManager.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LoginManager.cpp",
-              "RelativeDocumentMoniker": "Liar\u0027s Bar\\LoginManager.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\LoginManager.cpp",
-              "RelativeToolTip": "Liar\u0027s Bar\\LoginManager.cpp",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-16T05:54:43.352Z",
+              "WhenOpened": "2024-11-18T14:14:14.547Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "delete_scalar.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_scalar.cpp",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T14:25:20.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "delete_array.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_array.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_array.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_array.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\vcruntime\\delete_array.cpp",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T14:25:29.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Liar\u0027s Bar.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar.cpp",
+              "RelativeDocumentMoniker": "Liar\u0027s Bar\\Liar\u0027s Bar.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar.cpp",
+              "RelativeToolTip": "Liar\u0027s Bar\\Liar\u0027s Bar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-15T17:35:56.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "WinSock2.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\WinSock2.h",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\WinSock2.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\WinSock2.h",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\um\\WinSock2.h",
+              "ViewState": "AgIAAIgGAAAAAAAAAAAwwJoGAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T10:52:44.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
               "Title": "Singleton.h",
               "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\Singleton.h",
               "RelativeDocumentMoniker": "Liar\u0027s Bar\\Singleton.h",
               "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\Liar\u0027s Bar\\Liar\u0027s Bar\\Singleton.h",
               "RelativeToolTip": "Liar\u0027s Bar\\Singleton.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-16T05:45:59.728Z"
             }

@@ -10,6 +10,8 @@
 #include <winsock2.h>
 #include <thread>
 
+#include "Singleton.h"
+
 using namespace std;
 
 typedef struct {
@@ -24,7 +26,7 @@ typedef struct {
 	int rwMode;
 } PER_IO_DATA, * LPPER_IO_DATA;
 
-class NetworkManager
+class NetworkManager : public Singleton<NetworkManager>
 {
 	WSADATA wsaData;
 	HANDLE hCompPort;
@@ -38,10 +40,6 @@ class NetworkManager
 	DWORD transferredBytes;
 	char sendBuffer[DATA_BUF_SIZE];
 	char recvBuffer[DATA_BUF_SIZE];
-	int sendBytes, flags = 0;
-
-	WSAEVENT        evObj;
-	WSAOVERLAPPED    overlapped;
 
 public:
 	void init();

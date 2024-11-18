@@ -1,5 +1,9 @@
 ﻿  Liar's Bar.cpp
   LobbyManager.cpp
   LoginManager.cpp
+  NetworkManager.cpp
+  PacketBuffer.cpp
+C:\Users\zino\Desktop\Liar's Bar\Liar's Bar\Liar's Bar\PacketBuffer.cpp(62,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PacketManager.cpp
   Generating Code...
   Liar's Bar.vcxproj -> C:\Users\zino\Desktop\Liar's Bar\Liar's Bar\x64\Debug\Liar's Bar.exe

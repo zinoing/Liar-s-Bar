@@ -10,14 +10,14 @@ void NetworkManager::init()
     int iResult = WSAStartup(MAKEWORD(2, 2), &wsaData);
     if (iResult != 0)
     {
-        std::cout << "WSAStartup failed with error: " << WSAGetLastError() << "\n";
+        cout << "WSAStartup failed with error: " << WSAGetLastError() << "\n";
         return;
     }
 
     clntSock = WSASocket(AF_INET, SOCK_STREAM, IPPROTO_TCP, NULL, 0, WSA_FLAG_OVERLAPPED);
     if (clntSock == INVALID_SOCKET)
     {
-        std::cout << "WSASocket failed with error: " << WSAGetLastError() << "\n";
+        cout << "WSASocket failed with error: " << WSAGetLastError() << "\n";
         WSACleanup();
         return;
     }
@@ -29,7 +29,7 @@ void NetworkManager::init()
     u_long nonBlocking = 1;
     ioctlsocket(clntSock, FIONBIO, &nonBlocking);
 
-    std::cout << "NetworkManager initialized successfully\n";
+    cout << "NetworkManager initialized successfully\n";
 }
 
 void NetworkManager::connectWithServer()
@@ -62,10 +62,10 @@ void NetworkManager::connectWithServer()
 
 void NetworkManager::sendMessage(const char* message)
 {
-    strcpy_s(sendBuffer, message);
+    memcpy(sendBuffer, message, DATA_BUF_SIZE);
     transferredBytes = 0;
 
-    sendDataBuf.len = (ULONG)strlen(sendBuffer);
+    sendDataBuf.len = DATA_BUF_SIZE;
     sendDataBuf.buf = sendBuffer;
 
     PER_IO_DATA* ioInfo = new PER_IO_DATA();
@@ -84,11 +84,11 @@ void NetworkManager::sendMessage(const char* message)
     
     if ((rc == SOCKET_ERROR) && (WSAGetLastError() != WSA_IO_PENDING))
     {
-        std::cout << "WSASend failed with error: " << WSAGetLastError() << "\n";
+        cout << "WSASend failed with error: " << WSAGetLastError() << "\n";
     }
     else
     {
-        std::cout << "Sent message: " << message << std::endl;
+        cout << "Sent message: " << message << endl;
     }
 }
 
@@ -103,7 +103,7 @@ void NetworkManager::receiveMessage()
     ioInfo->wsaBuf.buf = ioInfo->buffer;
     ioInfo->wsaBuf.len = DATA_BUF_SIZE;
     ioInfo->rwMode = READ;
-    flags = 0;
+    DWORD flags = 0;
 
     // 비동기적으로 데이터 수신
     int rc = WSARecv(clntSock, 
@@ -115,7 +115,7 @@ void NetworkManager::receiveMessage()
 
     if ((rc == SOCKET_ERROR) && (WSAGetLastError() != WSA_IO_PENDING))
     {
-        std::cout << "WSARecv failed with error: " << WSAGetLastError() << "\n";
+        cout << "WSARecv failed with error: " << WSAGetLastError() << "\n";
     }
 }
 
@@ -139,7 +139,7 @@ void NetworkManager::handleIO()
         // 읽기 작업이 완료되었을 경우
         if (ioInfo->rwMode == READ)
         {
-            cout << "Received data: " << ioInfo->buffer << std::endl;
+            cout << "Received data: " << ioInfo->buffer << endl;
         }
         // 쓰기 작업이 완료되었을 경우
         else if (ioInfo->rwMode == WRITE)

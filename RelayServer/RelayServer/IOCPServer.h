@@ -11,6 +11,8 @@
 #include <vector>
 
 #include "ClientInfo.h"
+#include "PacketManager.h"
+#include "PacketBuffer.h"
 
 using namespace std;
 
@@ -29,7 +31,7 @@ class IOCPServer
 	int iAcceptSize = sizeof(acceptAddr);
 	SOCKET acceptSock;
 
-	vector<ClientInfo> clients;
+	vector<ClientInfo*> clients;
 	vector<thread> workerThreads;
 private:
 	void init();

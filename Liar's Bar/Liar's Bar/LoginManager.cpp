@@ -1,15 +1,16 @@
 #include "LoginManager.h"
 
-void LoginManager::login() const
+void LoginManager::login()
 {
     system("cls");
     string id = askForId();
     string password = askForPassword();
     if (!askForUserConfirmation(id, password)) login();
+
     return;
 }
 
-void LoginManager::registerUser() const
+void LoginManager::registerUser()
 {
     system("cls");
     string id = askForId();
@@ -22,7 +23,7 @@ void LoginManager::registerUser() const
     return;
 }
 
-string LoginManager::askForId() const 
+string LoginManager::askForId() 
 {
     string username;
     cout << "Please enter id: ";
@@ -30,7 +31,7 @@ string LoginManager::askForId() const
     return username;
 }
 
-string LoginManager::askForPassword() const 
+string LoginManager::askForPassword() 
 {
     string password;
     cout << "Please enter password: ";
@@ -38,13 +39,13 @@ string LoginManager::askForPassword() const
     return password;
 }
 
-bool LoginManager::checkIdExists(const string& id) const 
+bool LoginManager::checkIdExists(const string& id) 
 {
     // 해당 아이디가 존재하는지 확인
     return true;
 }
 
-bool LoginManager::askForUserConfirmation(const string& id, const string& password) const 
+bool LoginManager::askForUserConfirmation(const string& id, const string& password) 
 {
     if (!checkIdExists(id)) {
         cout << "Id or password do not match. Please try again." << endl;

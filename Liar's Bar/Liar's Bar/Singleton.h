@@ -12,7 +12,7 @@ class Singleton {
 	Singleton& operator=(Singleton&&) = delete;
 
 public:
-	static const T& getInstance() {
+	static T& getInstance() {
 		return instance;
 	}
 };

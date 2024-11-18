@@ -10,15 +10,15 @@ using namespace std;
 class LoginManager
 {
 public:
-	LoginManager() = default;  // 기본 생성자 필요
+	LoginManager() = default;
 
-	void login() const;
-	void registerUser() const;
+	void login();
+	void registerUser();
 
 private:
-	string askForId() const;
-    string askForPassword() const;
-	bool checkIdExists(const string& id) const;
-	bool askForUserConfirmation(const string& id, const string& password) const;
+	string askForId();
+    string askForPassword();
+	bool checkIdExists(const string& id);
+	bool askForUserConfirmation(const string& id, const string& password);
 };
 

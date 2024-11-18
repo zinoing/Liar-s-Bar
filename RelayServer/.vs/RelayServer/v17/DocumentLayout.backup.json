@@ -1,17 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zino\\Desktop\\RelayServer\\",
+  "WorkspaceRootPath": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\RelayServer\\RelayServer\\IOCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\ClientInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\IOCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\RelayServer\\RelayServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\RelayServer\\RelayServer\\RelayServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\ClientInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\RelayServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\RelayServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -22,44 +30,68 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "IOCPServer.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\RelayServer\\RelayServer\\IOCPServer.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.h",
               "RelativeDocumentMoniker": "RelayServer\\IOCPServer.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\RelayServer\\RelayServer\\IOCPServer.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.h",
               "RelativeToolTip": "RelayServer\\IOCPServer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-16T12:16:10.931Z",
-              "IsPinned": true,
-              "EditorCaption": ""
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IOCPServer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.cpp",
+              "RelativeDocumentMoniker": "RelayServer\\IOCPServer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.cpp",
+              "RelativeToolTip": "RelayServer\\IOCPServer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-16T12:18:53.366Z",
+              "IsPinned": true
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "IOCPServer.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\RelayServer\\RelayServer\\IOCPServer.cpp",
-              "RelativeDocumentMoniker": "RelayServer\\IOCPServer.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\RelayServer\\RelayServer\\IOCPServer.cpp",
-              "RelativeToolTip": "RelayServer\\IOCPServer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-16T12:18:53.366Z",
+              "Title": "ClientInfo.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.h",
+              "RelativeDocumentMoniker": "RelayServer\\ClientInfo.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.h",
+              "RelativeToolTip": "RelayServer\\ClientInfo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T07:08:31.72Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
+              "Title": "ClientInfo.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.cpp",
+              "RelativeDocumentMoniker": "RelayServer\\ClientInfo.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.cpp",
+              "RelativeToolTip": "RelayServer\\ClientInfo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T07:13:32.897Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "RelayServer.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\RelayServer\\RelayServer\\RelayServer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\RelayServer.cpp",
               "RelativeDocumentMoniker": "RelayServer\\RelayServer.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\RelayServer\\RelayServer\\RelayServer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\RelayServer.cpp",
               "RelativeToolTip": "RelayServer\\RelayServer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-16T11:55:17.249Z"
             }

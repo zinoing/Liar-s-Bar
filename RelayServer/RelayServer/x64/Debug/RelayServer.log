@@ -1,5 +1,7 @@
-﻿  IOCPServer.cpp
-C:\Users\zino\Desktop\RelayServer\RelayServer\IOCPServer.cpp(79,57): warning C4311: 'type cast': pointer truncation from 'PER_HANDLE_DATA *' to 'DWORD'
-C:\Users\zino\Desktop\RelayServer\RelayServer\IOCPServer.cpp(79,57): warning C4302: 'type cast': truncation from 'PER_HANDLE_DATA *' to 'DWORD'
-  LINK : C:\Users\zino\Desktop\Liar's Bar\x64\Debug\RelayServer.exe not found or not built by the last incremental link; performing full link
-  RelayServer.vcxproj -> C:\Users\zino\Desktop\Liar's Bar\x64\Debug\RelayServer.exe
+﻿  ClientInfo.cpp
+C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\ClientInfo.cpp(21,26): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
+C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\ClientInfo.cpp(27,29): warning C4267: '=': conversion from 'size_t' to 'ULONG', possible loss of data
+  IOCPServer.cpp
+  RelayServer.cpp
+  Generating Code...
+  RelayServer.vcxproj -> C:\Users\zino\Desktop\Liar's Bar\RelayServer\x64\Debug\RelayServer.exe

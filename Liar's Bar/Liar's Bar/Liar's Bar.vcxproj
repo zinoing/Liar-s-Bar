@@ -108,6 +108,7 @@
     <Link>
       <SubSystem>Console</SubSystem>
       <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalDependencies>ws2_32.lib;%(AdditionalDependencies)</AdditionalDependencies>
     </Link>
   </ItemDefinitionGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
@@ -128,10 +129,16 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Liar%27s Bar.cpp" />
+    <ClCompile Include="LobbyManager.cpp" />
     <ClCompile Include="LoginManager.cpp" />
+    <ClCompile Include="NetworkManager.cpp" />
+    <ClCompile Include="PacketManager.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="LobbyManager.h" />
     <ClInclude Include="LoginManager.h" />
+    <ClInclude Include="NetworkManager.h" />
+    <ClInclude Include="PacketManager.h" />
     <ClInclude Include="Singleton.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

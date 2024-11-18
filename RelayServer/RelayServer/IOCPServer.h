@@ -2,26 +2,19 @@
 
 #define _WINSOCK_DEPRECATED_NO_WARNINGS
 #define DATA_BUF_SIZE 4096
-
-#define READ 0
-#define WRITE 1
+#define RELAY_SERVER_PORT 8000
+#define LOGIN_SERVER_PORT 8001
 
 #include <iostream>
 #include <winsock2.h>
 #include <thread>
+#include <vector>
+
+#include "ClientInfo.h"
+
 using namespace std;
 
-typedef struct {
-	SOCKET acceptSock;
-	sockaddr_in acceptAddr;
-} PER_HANDLE_DATA, *LPPER_HANDLE_DATA;
-
-typedef struct {
-	WSAOVERLAPPED overlapped;
-	WSABUF wsaBuf;
-	char buffer[DATA_BUF_SIZE];
-	int rwMode;
-} PER_IO_DATA, *LPPER_IO_DATA;
+class ClientInfo;
 
 class IOCPServer
 {
@@ -36,20 +29,19 @@ class IOCPServer
 	int iAcceptSize = sizeof(acceptAddr);
 	SOCKET acceptSock;
 
-	WSABUF dataBuf;
-	DWORD transferredBytes;
-	char buffer[DATA_BUF_SIZE];
-	int recvBytes, flags = 0;
-
-public:
+	vector<ClientInfo> clients;
+	vector<thread> workerThreads;
+private:
 	void init();
 	void bindAndListen();
 	void acceptConnection();
 
-	void sendMessage(const char message[DATA_BUF_SIZE]);
-	void receiveMessage();
+	void sendMessage(ClientInfo clientInfo, const char* message);
+	void receiveMessage(ClientInfo clientInfo);
 
-	DWORD WINAPI handleIOCompletionThread(LPVOID pCompPort);
+	void workerThread();
+
+public:	
 	void runIOCPServer();
 };
 

@@ -11,7 +11,5 @@ int main()
 {
 	IOCPServer server;
 
-	server.init();
-	server.bindAndListen();
-	server.acceptConnection();
+	server.runIOCPServer();
 }

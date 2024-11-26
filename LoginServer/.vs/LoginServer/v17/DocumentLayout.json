@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\DatabaseConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|solutionrelative:LoginServer\\DatabaseConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\LoginServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|solutionrelative:LoginServer\\LoginServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|solutionrelative:LoginServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\IOCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|solutionrelative:LoginServer\\IOCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|solutionrelative:LoginServer\\PacketManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|solutionrelative:LoginServer\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\DatabaseConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|solutionrelative:LoginServer\\DatabaseConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|solutionrelative:LoginServer\\PacketType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|solutionrelative:LoginServer\\PacketBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\x64\\gshandlereh4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D5EBFA5F-5CC7-4891-B344-AB28F4439841}|LoginServer\\LoginServer.vcxproj|solutionrelative:LoginServer\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacketManager.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketManager.cpp",
+              "RelativeDocumentMoniker": "LoginServer\\PacketManager.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketManager.cpp",
+              "RelativeToolTip": "LoginServer\\PacketManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T14:15:09.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PacketManager.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketManager.h",
+              "RelativeDocumentMoniker": "LoginServer\\PacketManager.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketManager.h",
+              "RelativeToolTip": "LoginServer\\PacketManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T14:12:44.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginServer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\LoginServer.cpp",
+              "RelativeDocumentMoniker": "LoginServer\\LoginServer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\LoginServer.cpp",
+              "RelativeToolTip": "LoginServer\\LoginServer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T08:16:02.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IOCPServer.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\IOCPServer.h",
+              "RelativeDocumentMoniker": "LoginServer\\IOCPServer.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\IOCPServer.h",
+              "RelativeToolTip": "LoginServer\\IOCPServer.h",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-18T08:17:32.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IOCPServer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\IOCPServer.cpp",
+              "RelativeDocumentMoniker": "LoginServer\\IOCPServer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\IOCPServer.cpp",
+              "RelativeToolTip": "LoginServer\\IOCPServer.cpp",
+              "ViewState": "AgIAAI0AAAAAAAAAAAAAAKcAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-18T08:17:39.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PacketType.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketType.h",
+              "RelativeDocumentMoniker": "LoginServer\\PacketType.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketType.h",
+              "RelativeToolTip": "LoginServer\\PacketType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T14:12:01.426Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DatabaseConnector.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\DatabaseConnector.h",
+              "RelativeDocumentMoniker": "LoginServer\\DatabaseConnector.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\DatabaseConnector.h",
+              "RelativeToolTip": "LoginServer\\DatabaseConnector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-21T14:35:02.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DatabaseConnector.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\DatabaseConnector.cpp",
+              "RelativeDocumentMoniker": "LoginServer\\DatabaseConnector.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\DatabaseConnector.cpp",
+              "RelativeToolTip": "LoginServer\\DatabaseConnector.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T08:11:28.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "gshandlereh4.cpp",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\x64\\gshandlereh4.cpp",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\x64\\gshandlereh4.cpp",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\x64\\gshandlereh4.cpp",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\crt\\src\\x64\\gshandlereh4.cpp",
+              "ViewState": "AgIAADMAAAAAAAAAAADgv0gAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T13:14:24.884Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PacketBuffer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketBuffer.cpp",
+              "RelativeDocumentMoniker": "LoginServer\\PacketBuffer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketBuffer.cpp",
+              "RelativeToolTip": "LoginServer\\PacketBuffer.cpp",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAjwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T08:29:36.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PacketBuffer.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketBuffer.h",
+              "RelativeDocumentMoniker": "LoginServer\\PacketBuffer.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\LoginServer\\LoginServer\\PacketBuffer.h",
+              "RelativeToolTip": "LoginServer\\PacketBuffer.h",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAmwCoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T08:51:49.201Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

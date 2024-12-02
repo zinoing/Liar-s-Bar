@@ -4,6 +4,7 @@
 
 #define RELAY_SERVER_PORT 8000
 #define LOGIN_SERVER_PORT 8001
+#define GAME_SERVER_PORT 8002
 
 #define READ 2
 #define WRITE 3

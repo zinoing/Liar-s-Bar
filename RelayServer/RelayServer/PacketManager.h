@@ -9,6 +9,7 @@
 #include "ClientInfo.h"
 #include "IOCPServer.h"
 #include "LoginServerConnector.h"
+#include "GameServerConnector.h"
 #include "PacketQueue.h"
 
 using namespace std;

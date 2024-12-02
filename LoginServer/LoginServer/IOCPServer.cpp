@@ -155,7 +155,8 @@ void IOCPServer::workerThread()
 		
 		if (!success || transferredBytes == 0) {
 			int err = WSAGetLastError();
-			if (err == ERROR_NETNAME_DELETED || err == WSAESHUTDOWN) {
+			if (err == WSA_IO_PENDING) continue;
+			else if (err == ERROR_NETNAME_DELETED || err == WSAESHUTDOWN) {
 				cout << "RelayServer disconnected" << endl;
 				closesocket(relayServSock);
 				delete completedIOInfo;
@@ -172,7 +173,7 @@ void IOCPServer::workerThread()
 
 			PacketBuffer pb(completedIOInfo->buffer);
 			PacketManager* packetManager = PacketManager::getInstance();
-			packetManager->handlePacket(this, pb);
+			packetManager->pushPacket(pb);
 			receiveMessage();
 		}
 		else if (completedIOInfo->rwMode == WRITE) {

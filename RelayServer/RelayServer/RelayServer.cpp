@@ -4,18 +4,26 @@
 #include <iostream>
 #include <winsock2.h>
 #include "IOCPServer.h"
+#include "LoginServerConnector.h"
+#include "GameServerConnector.h"
 
 using namespace std;
 
 int main()
 {
-	cout << "************* Running Connectors *************\n";
-	LoginServerConnector* loginServerConnector = LoginServerConnector::getInstance();
+	cout << "Start Relay Server\n\n";
 
-	loginServerConnector->runLoginServerConnector("127.0.0.1", LOGIN_SERVER_PORT);
+	cout << "************* Running Connectors *************\n";
+
+	LoginServerConnector* loginServerConnector = LoginServerConnector::getInstance();
+	loginServerConnector->runLoginServerConnector();
 	cout << "LoginServerConnector is functioning properly\n";
 
-	cout << "All connectors are successfully initialized and functioning properly\n";
+	GameServerConnector* gameServerConnector = GameServerConnector::getInstance();
+	gameServerConnector->runGameServerConnector();
+	cout << "GameServerConnector is functioning properly\n";
+
+	cout << "All connectors are successfully initialized and functioning properly\n\n";
 
 	PacketManager* packetManager = PacketManager::getInstance();
 	packetManager->runPacketManager();

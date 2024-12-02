@@ -14,6 +14,10 @@ ClientInfo::~ClientInfo()
 	delete handleData;
 }
 
+void ClientInfo::setId(string clientId) {
+	id = clientId;
+}
+
 string ClientInfo::getUniqueKey()
 {
 	return uniqueKey;

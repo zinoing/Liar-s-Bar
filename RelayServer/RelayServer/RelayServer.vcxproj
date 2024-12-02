@@ -130,6 +130,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="ClientInfo.cpp" />
+    <ClCompile Include="GameServerConnector.cpp" />
     <ClCompile Include="IOCPServer.cpp" />
     <ClCompile Include="LoginServerConnector.cpp" />
     <ClCompile Include="PacketQueue.cpp" />
@@ -142,6 +143,7 @@
   <ItemGroup>
     <ClInclude Include="ClientInfo.h" />
     <ClInclude Include="ErrorLogger.h" />
+    <ClInclude Include="GameServerConnector.h" />
     <ClInclude Include="IOCPServer.h" />
     <ClInclude Include="LoginServerConnector.h" />
     <ClInclude Include="PacketQueue.h" />

@@ -140,6 +140,7 @@
     <ClCompile Include="LoginServer.cpp" />
     <ClCompile Include="PacketBuffer.cpp" />
     <ClCompile Include="PacketManager.cpp" />
+    <ClCompile Include="PacketQueue.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="DatabaseConnector.h" />
@@ -147,6 +148,7 @@
     <ClInclude Include="IOCPServer.h" />
     <ClInclude Include="PacketBuffer.h" />
     <ClInclude Include="PacketManager.h" />
+    <ClInclude Include="PacketQueue.h" />
     <ClInclude Include="PacketType.h" />
     <ClInclude Include="Singleton.h" />
     <ClInclude Include="SocketStructure.h" />

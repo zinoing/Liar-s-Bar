@@ -116,8 +116,10 @@ void IOCPServer::workerThread()
 		
 		if (!success || transferredBytes == 0) {
 			int err = WSAGetLastError();
-			if (err == ERROR_NETNAME_DELETED || err == WSAESHUTDOWN) {
+			if (err == WSA_IO_PENDING) continue;
+			else if (err == ERROR_NETNAME_DELETED || err == WSAESHUTDOWN) {
 				cout << "Client disconnected" << endl;
+				clients.erase(pClientInfo->getUniqueKey());
 				pClientInfo->closeSocket();
 				delete completedIOInfo;
 				continue;
@@ -129,7 +131,7 @@ void IOCPServer::workerThread()
 		}
 
 		if (completedIOInfo->rwMode == READ) {
-			cout << "Read data: " << completedIOInfo->buffer << endl;
+			cout << "Read data" << endl;
 
 			PacketBuffer pb(completedIOInfo->buffer);
 			PacketManager* packetManager = PacketManager::getInstance();

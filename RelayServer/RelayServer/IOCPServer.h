@@ -4,7 +4,6 @@
 #include "ClientInfo.h"
 #include "PacketManager.h"
 #include "PacketBuffer.h"
-#include "LoginServerConnector.h"
 #include "ErrorLogger.h"
 
 #include <chrono>
@@ -44,6 +43,7 @@ private:
 	string createUniqueKey();
 public:		
 	void runIOCPServer();
-	ClientInfo* getClientInfo(string uniqueKey);
+	ClientInfo* getClientInfo(string id);
+	void addClientInfo(string id);
 };
 

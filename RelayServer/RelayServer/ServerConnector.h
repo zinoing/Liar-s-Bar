@@ -28,6 +28,6 @@ private:
 public:
 	void sendMessage(const char* message);
 	void receiveMessage();
-	void runConnector(const char* ipAddress, const u_short port);
+	virtual void runConnector(const char* ipAddress, const u_short port);
 };
 

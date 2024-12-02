@@ -8,15 +8,25 @@
 #include "PacketBuffer.h"
 #include "IOCPServer.h"
 #include "ErrorLogger.h"
+#include "PacketQueue.h"
 
 using namespace std;
 
 class IOCPServer;
 
 class PacketManager : public Singleton<PacketManager> {
+
+    PacketQueue packetQueue;
+    vector<thread> threads;
+
+private:
+    void handlePacket(PacketBuffer& packet);
+    void handlePacketThread();
+
 public:
-    const char* serializePacket(ServerPacketType type, PacketBuffer packetBuffer);
+    void pushPacket(const PacketBuffer& packetBuffer);
 
-    void handlePacket(IOCPServer* server, PacketBuffer& packet);
+    const char* serializePacket(const ServerPacketType& type, PacketBuffer& packetBuffer);
 
+    void runPacketManager();
 };

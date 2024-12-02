@@ -151,7 +151,7 @@ void ServerConnector::handleIO()
         }
 
         if (completedIOInfo->rwMode == READ) {
-            cout << "Read data: " << completedIOInfo->buffer << endl;
+            cout << "Read data" << endl;
 
             PacketBuffer pb(completedIOInfo->buffer);
 

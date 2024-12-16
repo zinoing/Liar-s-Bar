@@ -5,8 +5,7 @@
 
 class ClientInfo
 {
-	string uniqueKey; // uniqueKey used to identify the client in the server connection
-	string id; // id of the client or user used in the chat session
+	string id; // id used to identify the client in the server connection
 
 	LPPER_HANDLE_DATA handleData;
 
@@ -17,10 +16,10 @@ class ClientInfo
 	char recvBuffer[DATA_BUF_SIZE];
 
 public:
-	ClientInfo(string uniqueKey, LPPER_HANDLE_DATA handleData);
+	ClientInfo(string id, LPPER_HANDLE_DATA handleData);
 	~ClientInfo();
 	void setId(string clientId);
-	string getUniqueKey();
+	string getId();
 	void sendMessage(const char* message);
 	void receiveMessage();
 	void closeSocket();

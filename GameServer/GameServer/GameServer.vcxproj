@@ -129,6 +129,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Card.cpp" />
+    <ClCompile Include="Dealer.cpp" />
     <ClCompile Include="GameServer.cpp" />
     <ClCompile Include="IOCPServer.cpp" />
     <ClCompile Include="PacketBuffer.cpp" />
@@ -140,6 +141,7 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Card.h" />
+    <ClInclude Include="Dealer.h" />
     <ClInclude Include="ErrorLogger.h" />
     <ClInclude Include="IOCPServer.h" />
     <ClInclude Include="PacketBuffer.h" />

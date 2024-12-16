@@ -89,10 +89,6 @@ void ServerConnector::sendMessage(const char* message)
     {
         ErrorLogger::log("WSASend", WSAGetLastError());
     }
-    else
-    {
-        cout << "Sent message: " << message << endl;
-    }
 }
 
 void ServerConnector::receiveMessage()
@@ -151,7 +147,6 @@ void ServerConnector::handleIO()
         }
 
         if (completedIOInfo->rwMode == READ) {
-            cout << "Read data" << endl;
 
             PacketBuffer pb(completedIOInfo->buffer);
 
@@ -159,9 +154,6 @@ void ServerConnector::handleIO()
             packetManager->pushPacket(PacketInfo(pb, nullptr));
 
             receiveMessage();
-        }
-        else if (completedIOInfo->rwMode == WRITE) {
-            cout << "Sent message successfully" << endl;
         }
 
         delete completedIOInfo;

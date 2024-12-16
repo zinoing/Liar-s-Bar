@@ -1,10 +1,10 @@
 #include "Card.h"
 
-Card::Card(CardType card)
+Card::Card(CardType cardType) : type(cardType)
 {
 }
 
-const CardType Card::getCardType()
+const CardType Card::getCardType() const
 {
-	return CardType();
+	return type;
 }

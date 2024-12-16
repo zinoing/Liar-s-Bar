@@ -1,8 +1,8 @@
 #include "ClientInfo.h"
 
-ClientInfo::ClientInfo(string uniqueKey, LPPER_HANDLE_DATA handleData)
+ClientInfo::ClientInfo(string id, LPPER_HANDLE_DATA handleData)
 {
-	this->uniqueKey = uniqueKey;
+	this->id = id;
 	this->handleData = handleData;
 
 	memset(sendBuffer, 0, DATA_BUF_SIZE);
@@ -18,9 +18,9 @@ void ClientInfo::setId(string clientId) {
 	id = clientId;
 }
 
-string ClientInfo::getUniqueKey()
+string ClientInfo::getId()
 {
-	return uniqueKey;
+	return id;
 }
 
 void ClientInfo::sendMessage(const char* message)

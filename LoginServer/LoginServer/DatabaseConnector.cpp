@@ -24,11 +24,8 @@ bool DatabaseConnector::logIn(string id, string password)
         if (res->next()) {
             string selectedId = res->getString("id");
             string selectedPassword = res->getString("password");
-            cout << "id = " << selectedId;
-            cout << "password = " << selectedPassword;
-        
             if (selectedPassword != password) {
-                cout << "Password is incorred\n" << endl;
+                cout << "Password is incorrect\n" << endl;
                 delete pstmt;
                 delete res;
                 return false;
@@ -43,6 +40,8 @@ bool DatabaseConnector::logIn(string id, string password)
         
         delete pstmt;
         delete res;
+
+        cout << "[" << id << "]" << " logged in" << endl;
         return true;
     }
     catch (sql::SQLException& e) {
@@ -61,7 +60,7 @@ bool DatabaseConnector::logIn(string id, string password)
 
 bool DatabaseConnector::registerUser(string id, string password)
 {
-    sql::PreparedStatement* pstmt = nullptr;
+    sql::PreparedStatement* pstmt = nullptr;    
     sql::ResultSet* res = nullptr;
 
     try {
@@ -89,6 +88,8 @@ bool DatabaseConnector::registerUser(string id, string password)
 
         delete pstmt;
         delete res;
+
+        cout << "[" << id << "]" << " registered" << endl;
         return true;
     }
     catch (sql::SQLException& e) {

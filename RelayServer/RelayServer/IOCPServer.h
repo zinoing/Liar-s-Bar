@@ -9,6 +9,7 @@
 #include <chrono>
 #include <iomanip>
 #include <sstream>
+#include <mutex>
 
 using namespace chrono;
 
@@ -30,6 +31,14 @@ class IOCPServer : public Singleton<IOCPServer>
 	unordered_map<string, ClientInfo*> clients;
 	vector<thread> workerThreads;
 
+	mutex clientsMutex;
+
+public:
+	void runIOCPServer();
+	ClientInfo* getClientInfo(string id);
+	void addClientInfo(string id, ClientInfo* clientInfo);
+	void removeClientInfo(string id);
+
 private:
 	void init();
 	void bindAndListen();
@@ -41,9 +50,5 @@ private:
 	void workerThread();
 
 	string createUniqueKey();
-public:		
-	void runIOCPServer();
-	ClientInfo* getClientInfo(string id);
-	void addClientInfo(string id);
 };
 

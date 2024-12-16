@@ -13,18 +13,18 @@ void PacketManager::handlePacket(PacketBuffer& packet)
 		switch (clientType) {
 		case ClientPacketType::REQ_HOST_ROOM:
 		{
+			string hostId = packet.readString();
 			string roomName = packet.readString();
 			int roomType = packet.readInt();
-			string hostId = packet.readString();
-			string uniqueKey = packet.readString();
+			Player* player = new Player(hostId);
 
 			RoomManager* roomManager = RoomManager::getInstance();
 			IOCPServer* server = IOCPServer::getInstance();
 
 			PacketBuffer packetToSend;
-			packetToSend.writeString(uniqueKey);
+			packetToSend.writeString(hostId);
 
-			if (roomManager->hostRoom(roomName, roomType, hostId)) {
+			if (roomManager->hostRoom(roomName, roomType, player)) {
 				server->sendMessage(serializePacket(ServerPacketType::ALLOW_HOST_ROOM, packetToSend));
 			}
 			else {
@@ -34,24 +34,37 @@ void PacketManager::handlePacket(PacketBuffer& packet)
 		}
 		case ClientPacketType::REQ_ENTER_ROOM:
 		{
-			string roomName = packet.readString();
 			string playerId = packet.readString();
-			string uniqueKey = packet.readString();
+			string roomName = packet.readString();
+			Player* player = new Player(playerId);
 
 			RoomManager* roomManager = RoomManager::getInstance();
 			IOCPServer* server = IOCPServer::getInstance();
 
 			PacketBuffer packetToSend;
-			packetToSend.writeString(uniqueKey);
+			packetToSend.writeString(playerId);
 
-			if (roomManager->enterRoom(roomName, playerId)) {
-				server->sendMessage(serializePacket(ServerPacketType::ALLOW_HOST_ROOM, packetToSend));
+			if (roomManager->enterRoom(roomName, player)) {
+				server->sendMessage(serializePacket(ServerPacketType::ALLOW_ENTER_ROOM, packetToSend));
 			}
 			else {
-				server->sendMessage(serializePacket(ServerPacketType::REJECT_HOST_ROOM, packetToSend));
+				server->sendMessage(serializePacket(ServerPacketType::REJECT_ENTER_ROOM, packetToSend));
 			}
 			break;
 		}
+		case ClientPacketType::PlAYER_TURN_OVER:
+		{
+			string playerId = packet.readString();
+			string roomName = packet.readString();
+
+			vector<Card> cardsDiscarded = packet.readCards();
+
+			RoomManager* roomManager = RoomManager::getInstance();
+			Room* roomPlayerIn = roomManager->findRoomByName(roomName);
+
+			roomPlayerIn->changeTurn(playerId, cardsDiscarded);
+		}
+
 		default:
 			int errorCode = 9999;
 			ErrorLogger::log("handlePacket", errorCode);

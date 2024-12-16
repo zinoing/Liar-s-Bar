@@ -1,4 +1,2 @@
-﻿  Card.cpp
-  PacketManager.cpp
-  Generating Code...
-  GameServer.vcxproj -> C:\Users\zino\Desktop\Liar's Bar\GameServer\x64\Debug\GameServer.exe
+﻿  Room.cpp
+  GameServer.vcxproj -> C:\Users\zino\Desktop\game_server_project\GameServer\x64\Debug\GameServer.exe

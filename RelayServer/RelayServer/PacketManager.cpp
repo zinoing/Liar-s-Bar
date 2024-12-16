@@ -10,8 +10,8 @@ void PacketManager::handlePacket(PacketBuffer& packet, ClientInfo* clientInfo)
 	if (type < SERVER_PACKET_OFFSET) {
 		ClientPacketType clientType = static_cast<ClientPacketType>(type);
 
-		packet.writeString(clientInfo->getUniqueKey());
-		size += (sizeof(int) + clientInfo->getUniqueKey().size());
+		packet.writeString(clientInfo->getId());
+		size += (sizeof(int) + clientInfo->getId().size());
 		packet.setWriteOffset(size);
 
 		packet = packet.getData();
@@ -41,6 +41,9 @@ void PacketManager::handlePacket(PacketBuffer& packet, ClientInfo* clientInfo)
 			gameServerConnector->sendMessage(packet.getData());
 			break;
 		}
+		case ClientPacketType::PlAYER_TURN_OVER:
+			GameServerConnector* gameServerConnector = GameServerConnector::getInstance();
+			gameServerConnector->sendMessage(packet.getData());
 		}
 	}
 	else {
@@ -49,39 +52,55 @@ void PacketManager::handlePacket(PacketBuffer& packet, ClientInfo* clientInfo)
 		PacketManager* packetManager = PacketManager::getInstance();
 
 		// clientInfo should be nullptr right now
-		string uniqueKey = packet.readString();
+		string id = packet.readString();
 
 		IOCPServer* server = IOCPServer::getInstance();
-		clientInfo = server->getClientInfo(uniqueKey);
+		clientInfo = server->getClientInfo(id);
 
 		switch (serverType) {
 		case ServerPacketType::ACCEPT_LOG_IN:
 		{
-			string id = packet.readString();
+			server->removeClientInfo(id);
+
+			id = packet.readString();
 			clientInfo->setId(id);
-			clientInfo->sendMessage(packetManager->serializePacket(ServerPacketType::ACCEPT_LOG_IN, packet));
+
+			server->addClientInfo(id, clientInfo);
+
+			PacketBuffer pb;
+			pb.writeString(id);
+			clientInfo->sendMessage(packetManager->serializePacket(ServerPacketType::ACCEPT_LOG_IN, pb));
 			break;
 		}
 		case ServerPacketType::REJECT_LOG_IN:
-			clientInfo->sendMessage(packetManager->serializePacket(ServerPacketType::REJECT_LOG_IN, packet));
+			clientInfo->sendMessage(packet.getData());
 			break;
 		case ServerPacketType::ACCEPT_REGISTER:
-			clientInfo->sendMessage(packetManager->serializePacket(ServerPacketType::ACCEPT_REGISTER, packet));
+			clientInfo->sendMessage(packet.getData());
 			break;
 		case ServerPacketType::REJECT_REGISTER:
-			clientInfo->sendMessage(packetManager->serializePacket(ServerPacketType::REJECT_REGISTER, packet));
+			clientInfo->sendMessage(packet.getData());
 			break;
 		case ServerPacketType::ALLOW_HOST_ROOM:
-			clientInfo->sendMessage(packetManager->serializePacket(ServerPacketType::ALLOW_HOST_ROOM, packet));
+			clientInfo->sendMessage(packet.getData());
 			break;
 		case ServerPacketType::REJECT_HOST_ROOM:
-			clientInfo->sendMessage(packetManager->serializePacket(ServerPacketType::REJECT_HOST_ROOM, packet));
+			clientInfo->sendMessage(packet.getData());
 			break;
 		case ServerPacketType::ALLOW_ENTER_ROOM:
-			clientInfo->sendMessage(packetManager->serializePacket(ServerPacketType::ALLOW_ENTER_ROOM, packet));
+			clientInfo->sendMessage(packet.getData());
 			break;
 		case ServerPacketType::REJECT_ENTER_ROOM:
-			clientInfo->sendMessage(packetManager->serializePacket(ServerPacketType::REJECT_ENTER_ROOM, packet));
+			clientInfo->sendMessage(packet.getData());
+			break;
+		case ServerPacketType::ALLOW_PLAY_GAME:
+			clientInfo->sendMessage(packet.getData());
+			break;
+		case ServerPacketType::DEAL_CARDS:
+			clientInfo->sendMessage(packet.getData());
+			break;
+		case ServerPacketType::PLAYER_TURN:
+			clientInfo->sendMessage(packet.getData());
 			break;
 		}
 	}

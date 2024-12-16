@@ -1,82 +1,100 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\",
+  "WorkspaceRootPath": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Room.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\RoomManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\RoomManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\RoomManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\RoomManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Dealer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Dealer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Room.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Dealer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Dealer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Player.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Stdfax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Stdfax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\RoomManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\RoomManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\IOCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\IOCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\IOCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\RoomManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\RoomManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Card.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Card.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Stdfax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Stdfax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\GameServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\Singleton.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{382D36E8-6BF0-40FA-BF2E-E27E75309353}|GameServer\\GameServer.vcxproj|solutionrelative:GameServer\\PacketQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,254 +104,301 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "RoomManager.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\RoomManager.cpp",
-              "RelativeDocumentMoniker": "GameServer\\RoomManager.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\RoomManager.cpp",
-              "RelativeToolTip": "GameServer\\RoomManager.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-02T14:20:42.978Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "RoomManager.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\RoomManager.h",
-              "RelativeDocumentMoniker": "GameServer\\RoomManager.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\RoomManager.h",
-              "RelativeToolTip": "GameServer\\RoomManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T14:10:05.73Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Room.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Room.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Room.h",
               "RelativeDocumentMoniker": "GameServer\\Room.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Room.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Room.h",
               "RelativeToolTip": "GameServer\\Room.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-12-02T13:27:18.942Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Room.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Room.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Room.cpp",
               "RelativeDocumentMoniker": "GameServer\\Room.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Room.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Room.cpp",
               "RelativeToolTip": "GameServer\\Room.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADsAAAAAAAAAAAAmwFwAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-02T13:53:50.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Card.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Card.h",
-              "RelativeDocumentMoniker": "GameServer\\Card.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Card.h",
-              "RelativeToolTip": "GameServer\\Card.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAMAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "Player.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Player.h",
+              "RelativeDocumentMoniker": "GameServer\\Player.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Player.h",
+              "RelativeToolTip": "GameServer\\Player.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T13:32:44.851Z",
+              "WhenOpened": "2024-12-02T13:31:53.788Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Player.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Player.cpp",
+              "RelativeDocumentMoniker": "GameServer\\Player.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Player.cpp",
+              "RelativeToolTip": "GameServer\\Player.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-13T15:28:34.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PacketBuffer.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketBuffer.h",
+              "RelativeDocumentMoniker": "GameServer\\PacketBuffer.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketBuffer.h",
+              "RelativeToolTip": "GameServer\\PacketBuffer.h",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAC4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-02T12:34:35.577Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Card.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Card.cpp",
-              "RelativeDocumentMoniker": "GameServer\\Card.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Card.cpp",
-              "RelativeToolTip": "GameServer\\Card.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-02T13:32:06.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Player.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Player.h",
-              "RelativeDocumentMoniker": "GameServer\\Player.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Player.h",
-              "RelativeToolTip": "GameServer\\Player.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T13:31:53.788Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IOCPServer.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\IOCPServer.h",
-              "RelativeDocumentMoniker": "GameServer\\IOCPServer.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\IOCPServer.h",
-              "RelativeToolTip": "GameServer\\IOCPServer.h",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T12:50:13.313Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "PacketBuffer.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketBuffer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketBuffer.cpp",
               "RelativeDocumentMoniker": "GameServer\\PacketBuffer.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketBuffer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketBuffer.cpp",
               "RelativeToolTip": "GameServer\\PacketBuffer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAIMAAAAAAAAAAAAewKIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-02T12:34:38.565Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "PacketManager.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketManager.h",
-              "RelativeDocumentMoniker": "GameServer\\PacketManager.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketManager.h",
-              "RelativeToolTip": "GameServer\\PacketManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAVAAAAAAAAAA==",
+              "DocumentIndex": 16,
+              "Title": "Card.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Card.h",
+              "RelativeDocumentMoniker": "GameServer\\Card.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Card.h",
+              "RelativeToolTip": "GameServer\\Card.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T12:34:40.789Z",
+              "WhenOpened": "2024-12-02T13:32:44.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Card.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Card.cpp",
+              "RelativeDocumentMoniker": "GameServer\\Card.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Card.cpp",
+              "RelativeToolTip": "GameServer\\Card.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T13:32:06.932Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dealer.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Dealer.h",
+              "RelativeDocumentMoniker": "GameServer\\Dealer.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Dealer.h",
+              "RelativeToolTip": "GameServer\\Dealer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-15T10:02:15.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "PacketManager.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketManager.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketManager.cpp",
               "RelativeDocumentMoniker": "GameServer\\PacketManager.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketManager.cpp*",
-              "RelativeToolTip": "GameServer\\PacketManager.cpp*",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAADIAAABbAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketManager.cpp",
+              "RelativeToolTip": "GameServer\\PacketManager.cpp",
+              "ViewState": "AgIAACQAAAAAAAAAAAAwwEAAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-12-02T12:33:50.293Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "PacketType.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketType.h",
-              "RelativeDocumentMoniker": "GameServer\\PacketType.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketType.h",
-              "RelativeToolTip": "GameServer\\PacketType.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 10,
+              "Title": "PacketManager.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketManager.h",
+              "RelativeDocumentMoniker": "GameServer\\PacketManager.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketManager.h",
+              "RelativeToolTip": "GameServer\\PacketManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABLAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T12:34:41.972Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:34:40.789Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "PacketQueue.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketQueue.h",
-              "RelativeDocumentMoniker": "GameServer\\PacketQueue.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketQueue.h",
-              "RelativeToolTip": "GameServer\\PacketQueue.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 9,
+              "Title": "RoomManager.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\RoomManager.h",
+              "RelativeDocumentMoniker": "GameServer\\RoomManager.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\RoomManager.h",
+              "RelativeToolTip": "GameServer\\RoomManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBEAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T12:36:55.575Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T14:10:05.73Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PacketQueue.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketQueue.cpp",
-              "RelativeDocumentMoniker": "GameServer\\PacketQueue.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketQueue.cpp",
-              "RelativeToolTip": "GameServer\\PacketQueue.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "Dealer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Dealer.cpp",
+              "RelativeDocumentMoniker": "GameServer\\Dealer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Dealer.cpp",
+              "RelativeToolTip": "GameServer\\Dealer.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwCgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-02T12:37:38.902Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "IOCPServer.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\IOCPServer.cpp",
-              "RelativeDocumentMoniker": "GameServer\\IOCPServer.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\IOCPServer.cpp",
-              "RelativeToolTip": "GameServer\\IOCPServer.cpp",
-              "ViewState": "AgIAAJkAAAAAAAAAAAAAAKEAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-02T12:26:04.439Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-15T10:04:45.671Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 17,
-              "Title": "GameServer.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\GameServer.cpp",
-              "RelativeDocumentMoniker": "GameServer\\GameServer.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\GameServer.cpp",
-              "RelativeToolTip": "GameServer\\GameServer.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-02T12:24:37.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Stdfax.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Stdfax.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Stdfax.h",
               "RelativeDocumentMoniker": "GameServer\\Stdfax.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Stdfax.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Stdfax.h",
               "RelativeToolTip": "GameServer\\Stdfax.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAPAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T12:26:29.881Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:26:29.881Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 12,
-              "Title": "Singleton.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Singleton.h",
-              "RelativeDocumentMoniker": "GameServer\\Singleton.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\Singleton.h",
-              "RelativeToolTip": "GameServer\\Singleton.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Title": "PacketType.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketType.h",
+              "RelativeDocumentMoniker": "GameServer\\PacketType.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketType.h",
+              "RelativeToolTip": "GameServer\\PacketType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T12:50:15.861Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:34:41.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\vector",
+              "ViewState": "AgIAAEsHAAAAAAAAAAApwF8HAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-15T15:17:06.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IOCPServer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\IOCPServer.cpp",
+              "RelativeDocumentMoniker": "GameServer\\IOCPServer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\IOCPServer.cpp",
+              "RelativeToolTip": "GameServer\\IOCPServer.cpp",
+              "ViewState": "AgIAAFUAAAAAAAAAAIAwwGkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T12:26:04.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RoomManager.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\RoomManager.cpp",
+              "RelativeDocumentMoniker": "GameServer\\RoomManager.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\RoomManager.cpp",
+              "RelativeToolTip": "GameServer\\RoomManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T14:20:42.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "IOCPServer.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\IOCPServer.h",
+              "RelativeDocumentMoniker": "GameServer\\IOCPServer.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\IOCPServer.h",
+              "RelativeToolTip": "GameServer\\IOCPServer.h",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-02T12:50:13.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "xutility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xutility",
+              "ViewState": "AgIAAC4ZAAAAAAAAAAAcwEcZAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-12-14T17:09:58.44Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "PacketBuffer.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketBuffer.h",
-              "RelativeDocumentMoniker": "GameServer\\PacketBuffer.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\GameServer\\GameServer\\PacketBuffer.h",
-              "RelativeToolTip": "GameServer\\PacketBuffer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "GameServer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\GameServer.cpp",
+              "RelativeDocumentMoniker": "GameServer\\GameServer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\GameServer.cpp",
+              "RelativeToolTip": "GameServer\\GameServer.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T12:24:37.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "PacketQueue.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketQueue.h",
+              "RelativeDocumentMoniker": "GameServer\\PacketQueue.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketQueue.h",
+              "RelativeToolTip": "GameServer\\PacketQueue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T12:34:35.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:36:55.575Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "PacketQueue.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketQueue.cpp",
+              "RelativeDocumentMoniker": "GameServer\\PacketQueue.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\PacketQueue.cpp",
+              "RelativeToolTip": "GameServer\\PacketQueue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-02T12:37:38.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Singleton.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Singleton.h",
+              "RelativeDocumentMoniker": "GameServer\\Singleton.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\GameServer\\GameServer\\Singleton.h",
+              "RelativeToolTip": "GameServer\\Singleton.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-02T12:50:15.861Z"
             }
           ]
         }

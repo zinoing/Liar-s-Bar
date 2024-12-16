@@ -1,2 +1,8 @@
-﻿  PacketManager.cpp
-  LoginServer.vcxproj -> C:\Users\zino\Desktop\Liar's Bar\LoginServer\x64\Debug\LoginServer.exe
+﻿  IOCPServer.cpp
+  LoginServer.cpp
+  PacketBuffer.cpp
+C:\Users\zino\Desktop\game_server_project\LoginServer\LoginServer\PacketBuffer.cpp(78,17): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  PacketManager.cpp
+  PacketQueue.cpp
+  Generating Code...
+  LoginServer.vcxproj -> C:\Users\zino\Desktop\game_server_project\LoginServer\x64\Debug\LoginServer.exe

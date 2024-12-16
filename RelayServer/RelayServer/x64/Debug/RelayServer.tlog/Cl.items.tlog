@@ -1,10 +1,10 @@
-C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\ClientInfo.cpp;C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\x64\Debug\ClientInfo.obj
-C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\GameServerConnector.cpp;C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\x64\Debug\GameServerConnector.obj
-C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\IOCPServer.cpp;C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\x64\Debug\IOCPServer.obj
-C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\LoginServerConnector.cpp;C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\x64\Debug\LoginServerConnector.obj
-C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\PacketQueue.cpp;C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\x64\Debug\PacketQueue.obj
-C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\PacketBuffer.cpp;C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\x64\Debug\PacketBuffer.obj
-C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\PacketManager.cpp;C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\x64\Debug\PacketManager.obj
-C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\RelayServer.cpp;C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\x64\Debug\RelayServer.obj
-C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\ServerConnector.cpp;C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\x64\Debug\ServerConnector.obj
-C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\Stdfax.h;C:\Users\zino\Desktop\Liar's Bar\RelayServer\RelayServer\x64\Debug\Stdfax.obj
+C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\ClientInfo.cpp;C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\x64\Debug\ClientInfo.obj
+C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\GameServerConnector.cpp;C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\x64\Debug\GameServerConnector.obj
+C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\IOCPServer.cpp;C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\x64\Debug\IOCPServer.obj
+C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\LoginServerConnector.cpp;C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\x64\Debug\LoginServerConnector.obj
+C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\PacketQueue.cpp;C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\x64\Debug\PacketQueue.obj
+C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\PacketBuffer.cpp;C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\x64\Debug\PacketBuffer.obj
+C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\PacketManager.cpp;C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\x64\Debug\PacketManager.obj
+C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\RelayServer.cpp;C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\x64\Debug\RelayServer.obj
+C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\ServerConnector.cpp;C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\x64\Debug\ServerConnector.obj
+C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\Stdfax.h;C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\x64\Debug\Stdfax.obj

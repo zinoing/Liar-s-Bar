@@ -12,6 +12,6 @@ class Card {
 	CardType type;
 
 public:
-	Card(CardType card);
-	const CardType getCardType();
+	Card(CardType cardType);
+	const CardType getCardType() const;
 };

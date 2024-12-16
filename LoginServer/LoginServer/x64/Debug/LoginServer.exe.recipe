@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\zino\Desktop\Liar's Bar\LoginServer\x64\Debug\LoginServer.exe</FullPath>
+      <FullPath>C:\Users\zino\Desktop\game_server_project\LoginServer\x64\Debug\LoginServer.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

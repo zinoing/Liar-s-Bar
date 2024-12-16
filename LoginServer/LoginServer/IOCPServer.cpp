@@ -169,16 +169,12 @@ void IOCPServer::workerThread()
 		}
 
 		if (completedIOInfo->rwMode == READ) {
-			cout << "Read data: " << completedIOInfo->buffer << endl;
-
 			PacketBuffer pb(completedIOInfo->buffer);
 			PacketManager* packetManager = PacketManager::getInstance();
 			packetManager->pushPacket(pb);
 			receiveMessage();
 		}
-		else if (completedIOInfo->rwMode == WRITE) {
-			cout << "Sent message successfully" << endl;
-		}
+
 		delete completedIOInfo;
 	}
 

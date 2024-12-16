@@ -5,8 +5,11 @@
 enum class ClientPacketType {
     REQ_LOG_IN = 1,
     REQ_REGISTER,
+
     REQ_HOST_ROOM,
     REQ_ENTER_ROOM,
+
+    PlAYER_TURN_OVER,
 };
 
 enum class ServerPacketType {
@@ -21,4 +24,9 @@ enum class ServerPacketType {
 
     ALLOW_ENTER_ROOM,
     REJECT_ENTER_ROOM,
+
+    ALLOW_PLAY_GAME,
+    DEAL_CARDS,
+
+    PLAYER_TURN,
 };

@@ -96,6 +96,20 @@ void PacketBuffer::writeBuffer(const PacketBuffer& packetBuffer)
     writeOffset += bufferwriteOffset;
 }
 
+void PacketBuffer::writeCards(const vector<Card>& cards)
+{
+    int numOfCards = cards.size();
+
+    if (writeOffset + sizeof(int) * (numOfCards + 1) > DATA_BUF_SIZE) {
+        throw out_of_range("Buffer overflow");
+    }
+
+    writeInt(numOfCards);
+    for (int i = 0; i < numOfCards; ++i) {
+        writeInt((int)(cards[i].getCardType()));
+    }
+}
+
 char PacketBuffer::readChar() {
     if (readOffset + sizeof(char) > DATA_BUF_SIZE) {
         throw out_of_range("Buffer underflow");
@@ -140,4 +154,19 @@ string PacketBuffer::readString() {
     string value(buffer + readOffset, strSize);
     readOffset += strSize;
     return value;
+}
+
+vector<Card> PacketBuffer::readCards()
+{
+    vector<Card> cards;
+    int numOfCards = readInt();
+
+    if (writeOffset + sizeof(int) * (numOfCards + 1) > DATA_BUF_SIZE) {
+        throw out_of_range("Buffer overflow");
+    }
+
+    for (int i = 0; i < numOfCards; ++i) {
+        cards.push_back(Card((CardType)readInt()));
+    }
+    return cards;
 }

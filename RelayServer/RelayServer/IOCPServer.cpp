@@ -1,5 +1,35 @@
 #include "IOCPServer.h"
 
+void IOCPServer::runIOCPServer()
+{
+	cout << "************* Running IOCPServer *************\n";
+
+	init();
+	bindAndListen();
+	acceptConnection();
+}
+
+ClientInfo* IOCPServer::getClientInfo(string uniqueKey)
+{
+	return clients[uniqueKey];
+}
+
+void IOCPServer::addClientInfo(string id, ClientInfo* clientInfo)
+{
+	lock_guard<mutex> lock(clientsMutex);
+
+	clients[id] = clientInfo;
+	return;
+}
+
+void IOCPServer::removeClientInfo(string id)
+{
+	lock_guard<mutex> lock(clientsMutex);
+
+	clients.erase(id);
+	return;
+}
+
 void IOCPServer::init()
 {
 	// Initialize Winsock
@@ -76,10 +106,16 @@ void IOCPServer::acceptConnection()
 			cout << "Connected to login server" << endl;
 		}
 
+		// temporary key
 		string uniqueKey = createUniqueKey();
 
 		ClientInfo* client = new ClientInfo(uniqueKey, handleInfo);
+
+		clientsMutex.lock();
+
 		clients[uniqueKey] = client;
+
+		clientsMutex.unlock();
 		printf("Client Accepted\n");
 
 		CreateIoCompletionPort((HANDLE)acceptSock, hCompPort, (ULONG_PTR)client, 0);
@@ -119,7 +155,7 @@ void IOCPServer::workerThread()
 			if (err == WSA_IO_PENDING) continue;
 			else if (err == ERROR_NETNAME_DELETED || err == WSAESHUTDOWN) {
 				cout << "Client disconnected" << endl;
-				clients.erase(pClientInfo->getUniqueKey());
+				clients.erase(pClientInfo->getId());
 				pClientInfo->closeSocket();
 				delete completedIOInfo;
 				continue;
@@ -131,16 +167,12 @@ void IOCPServer::workerThread()
 		}
 
 		if (completedIOInfo->rwMode == READ) {
-			cout << "Read data" << endl;
 
 			PacketBuffer pb(completedIOInfo->buffer);
 			PacketManager* packetManager = PacketManager::getInstance();
 			packetManager->pushPacket(PacketInfo(pb, pClientInfo));
 
 			pClientInfo->receiveMessage();
-		}
-		else if (completedIOInfo->rwMode == WRITE) {
-			cout << "Sent message successfully" << endl;
 		}
 
 		delete completedIOInfo;
@@ -158,18 +190,4 @@ string IOCPServer::createUniqueKey()
 	stringstream ss;
 	ss << "UID-" << millis;
 	return ss.str();
-}
-
-void IOCPServer::runIOCPServer()
-{
-	cout << "************* Running IOCPServer *************\n";
-
-	init();
-	bindAndListen();
-	acceptConnection();
-}
-
-ClientInfo* IOCPServer::getClientInfo(string uniqueKey)
-{
-	return clients[uniqueKey];
 }

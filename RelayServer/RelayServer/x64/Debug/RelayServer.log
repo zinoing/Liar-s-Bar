@@ -1,4 +1,3 @@
-﻿  RelayServer.cpp
-  ServerConnector.cpp
-  Generating Code...
-  RelayServer.vcxproj -> C:\Users\zino\Desktop\Liar's Bar\RelayServer\x64\Debug\RelayServer.exe
+﻿  PacketManager.cpp
+C:\Users\zino\Desktop\game_server_project\RelayServer\RelayServer\PacketManager.cpp(14,24): warning C4267: '+=': conversion from 'size_t' to 'int', possible loss of data
+  RelayServer.vcxproj -> C:\Users\zino\Desktop\game_server_project\RelayServer\x64\Debug\RelayServer.exe

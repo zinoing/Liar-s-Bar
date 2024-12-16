@@ -1,89 +1,86 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\",
+  "WorkspaceRootPath": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\RelayServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\RelayServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\ServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\PacketManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ClientInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\ClientInfo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\PacketQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\IOCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\IOCPServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\ClientInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\PacketType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\IOCPServer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\LoginServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\LoginServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\ServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\GameServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\GameServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\PacketQueue.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\GameServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\GameServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ClientInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\ClientInfo.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\LoginServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\LoginServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\Stdfax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\Stdfax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ErrorLogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\ErrorLogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\PacketBuffer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\GameServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\GameServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\PacketType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\ServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\RelayServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\RelayServer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\PacketQueue.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\LoginServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\LoginServerConnector.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\PacketManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\GameServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\GameServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\LoginServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\LoginServerConnector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\Stdfax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\Stdfax.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ErrorLogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\ErrorLogger.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8ED78630-9D81-48E7-BB98-553034B889CA}|RelayServer\\RelayServer.vcxproj|solutionrelative:RelayServer\\PacketBuffer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -93,280 +90,248 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "PacketQueue.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketQueue.cpp",
-              "RelativeDocumentMoniker": "RelayServer\\PacketQueue.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketQueue.cpp",
-              "RelativeToolTip": "RelayServer\\PacketQueue.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-26T11:48:21.289Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IOCPServer.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.h",
-              "RelativeDocumentMoniker": "RelayServer\\IOCPServer.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.h",
-              "RelativeToolTip": "RelayServer\\IOCPServer.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-24T13:39:36.045Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PacketManager.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketManager.cpp",
-              "RelativeDocumentMoniker": "RelayServer\\PacketManager.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketManager.cpp",
-              "RelativeToolTip": "RelayServer\\PacketManager.cpp",
-              "ViewState": "AgIAACcAAAAAAAAAAAAAAEwAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-21T13:51:26.404Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IOCPServer.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.cpp",
-              "RelativeDocumentMoniker": "RelayServer\\IOCPServer.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\IOCPServer.cpp",
-              "RelativeToolTip": "RelayServer\\IOCPServer.cpp",
-              "ViewState": "AgIAAGwAAAAAAAAAAAAAAIUAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-21T13:51:21.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "LoginServerConnector.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\LoginServerConnector.cpp",
-              "RelativeDocumentMoniker": "RelayServer\\LoginServerConnector.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\LoginServerConnector.cpp",
-              "RelativeToolTip": "RelayServer\\LoginServerConnector.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-24T17:23:22.968Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ServerConnector.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ServerConnector.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ServerConnector.cpp",
               "RelativeDocumentMoniker": "RelayServer\\ServerConnector.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ServerConnector.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ServerConnector.cpp",
               "RelativeToolTip": "RelayServer\\ServerConnector.cpp",
-              "ViewState": "AgIAAHcAAAAAAAAAAAAswI0AAAAtAAAAAAAAAA==",
+              "ViewState": "AgIAAHgAAAAAAAAAAIAwwJ8AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-21T11:41:23.148Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ClientInfo.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.h",
-              "RelativeDocumentMoniker": "RelayServer\\ClientInfo.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.h",
-              "RelativeToolTip": "RelayServer\\ClientInfo.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAPAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "ClientInfo.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ClientInfo.cpp",
+              "RelativeDocumentMoniker": "RelayServer\\ClientInfo.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ClientInfo.cpp",
+              "RelativeToolTip": "RelayServer\\ClientInfo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T08:53:44.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PacketType.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketType.h",
+              "RelativeDocumentMoniker": "RelayServer\\PacketType.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketType.h",
+              "RelativeToolTip": "RelayServer\\PacketType.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-18T07:08:31.72Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:57:54.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IOCPServer.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\IOCPServer.h",
+              "RelativeDocumentMoniker": "RelayServer\\IOCPServer.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\IOCPServer.h",
+              "RelativeToolTip": "RelayServer\\IOCPServer.h",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-24T13:39:36.045Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ClientInfo.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.cpp",
-              "RelativeDocumentMoniker": "RelayServer\\ClientInfo.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ClientInfo.cpp",
-              "RelativeToolTip": "RelayServer\\ClientInfo.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Title": "IOCPServer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\IOCPServer.cpp",
+              "RelativeDocumentMoniker": "RelayServer\\IOCPServer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\IOCPServer.cpp",
+              "RelativeToolTip": "RelayServer\\IOCPServer.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAAHUAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-24T08:53:44.053Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T13:51:21.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PacketQueue.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketQueue.h",
+              "RelativeDocumentMoniker": "RelayServer\\PacketQueue.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketQueue.h",
+              "RelativeToolTip": "RelayServer\\PacketQueue.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T11:46:49.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PacketManager.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketManager.cpp",
+              "RelativeDocumentMoniker": "RelayServer\\PacketManager.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketManager.cpp",
+              "RelativeToolTip": "RelayServer\\PacketManager.cpp",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAwEIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T13:51:26.404Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
-              "Title": "ServerConnector.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ServerConnector.h",
-              "RelativeDocumentMoniker": "RelayServer\\ServerConnector.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ServerConnector.h",
-              "RelativeToolTip": "RelayServer\\ServerConnector.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-24T17:17:28.01Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RelayServer.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\RelayServer.cpp",
-              "RelativeDocumentMoniker": "RelayServer\\RelayServer.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\RelayServer.cpp",
-              "RelativeToolTip": "RelayServer\\RelayServer.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAEwA0AAAAkAAAAAAAAAA==",
+              "Title": "GameServerConnector.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\GameServerConnector.cpp",
+              "RelativeDocumentMoniker": "RelayServer\\GameServerConnector.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\GameServerConnector.cpp",
+              "RelativeToolTip": "RelayServer\\GameServerConnector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-26T11:06:28.635Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:27:57.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "PacketQueue.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketQueue.h",
-              "RelativeDocumentMoniker": "RelayServer\\PacketQueue.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketQueue.h",
-              "RelativeToolTip": "RelayServer\\PacketQueue.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "DocumentIndex": 8,
+              "Title": "PacketBuffer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketBuffer.cpp",
+              "RelativeDocumentMoniker": "RelayServer\\PacketBuffer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketBuffer.cpp",
+              "RelativeToolTip": "RelayServer\\PacketBuffer.cpp",
+              "ViewState": "AgIAAAMAAAAAAAAAAIAwwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T14:00:19.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ClientInfo.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ClientInfo.h",
+              "RelativeDocumentMoniker": "RelayServer\\ClientInfo.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ClientInfo.h",
+              "RelativeToolTip": "RelayServer\\ClientInfo.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-26T11:46:49.517Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-18T07:08:31.72Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
-              "Title": "PacketManager.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketManager.h",
-              "RelativeDocumentMoniker": "RelayServer\\PacketManager.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketManager.h",
-              "RelativeToolTip": "RelayServer\\PacketManager.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
+              "Title": "ServerConnector.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ServerConnector.h",
+              "RelativeDocumentMoniker": "RelayServer\\ServerConnector.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ServerConnector.h",
+              "RelativeToolTip": "RelayServer\\ServerConnector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-26T11:13:28.916Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GameServerConnector.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\GameServerConnector.h",
-              "RelativeDocumentMoniker": "RelayServer\\GameServerConnector.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\GameServerConnector.h",
-              "RelativeToolTip": "RelayServer\\GameServerConnector.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T12:27:35.901Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T17:17:28.01Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 13,
-              "Title": "GameServerConnector.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\GameServerConnector.cpp",
-              "RelativeDocumentMoniker": "RelayServer\\GameServerConnector.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\GameServerConnector.cpp",
-              "RelativeToolTip": "RelayServer\\GameServerConnector.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAxAAAAAAAAAA==",
+              "Title": "LoginServerConnector.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\LoginServerConnector.cpp",
+              "RelativeDocumentMoniker": "RelayServer\\LoginServerConnector.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\LoginServerConnector.cpp",
+              "RelativeToolTip": "RelayServer\\LoginServerConnector.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAzAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-12-02T12:27:57.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-24T17:23:22.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PacketQueue.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketQueue.cpp",
+              "RelativeDocumentMoniker": "RelayServer\\PacketQueue.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketQueue.cpp",
+              "RelativeToolTip": "RelayServer\\PacketQueue.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T11:48:21.289Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RelayServer.cpp",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\RelayServer.cpp",
+              "RelativeDocumentMoniker": "RelayServer\\RelayServer.cpp",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\RelayServer.cpp",
+              "RelativeToolTip": "RelayServer\\RelayServer.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAEwBwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-26T11:06:28.635Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "LoginServerConnector.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\LoginServerConnector.h",
-              "RelativeDocumentMoniker": "RelayServer\\LoginServerConnector.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\LoginServerConnector.h",
-              "RelativeToolTip": "RelayServer\\LoginServerConnector.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
+              "Title": "PacketManager.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketManager.h",
+              "RelativeDocumentMoniker": "RelayServer\\PacketManager.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketManager.h",
+              "RelativeToolTip": "RelayServer\\PacketManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T12:24:04.418Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-26T11:13:28.916Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 15,
-              "Title": "Stdfax.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\Stdfax.h",
-              "RelativeDocumentMoniker": "RelayServer\\Stdfax.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\Stdfax.h",
-              "RelativeToolTip": "RelayServer\\Stdfax.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Title": "GameServerConnector.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\GameServerConnector.h",
+              "RelativeDocumentMoniker": "RelayServer\\GameServerConnector.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\GameServerConnector.h",
+              "RelativeToolTip": "RelayServer\\GameServerConnector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-12-02T12:26:58.56Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "xstring",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.41.34120\\include\\xstring",
-              "ViewState": "AgIAAKUCAAAAAAAAAAAAwLoCAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-11-26T12:09:13.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:27:35.901Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
-              "Title": "ErrorLogger.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ErrorLogger.h",
-              "RelativeDocumentMoniker": "RelayServer\\ErrorLogger.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\ErrorLogger.h",
-              "RelativeToolTip": "RelayServer\\ErrorLogger.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Title": "LoginServerConnector.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\LoginServerConnector.h",
+              "RelativeDocumentMoniker": "RelayServer\\LoginServerConnector.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\LoginServerConnector.h",
+              "RelativeToolTip": "RelayServer\\LoginServerConnector.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-26T12:20:42.667Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T12:24:04.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Stdfax.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\Stdfax.h",
+              "RelativeDocumentMoniker": "RelayServer\\Stdfax.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\Stdfax.h",
+              "RelativeToolTip": "RelayServer\\Stdfax.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-12-02T12:26:58.56Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 18,
-              "Title": "PacketBuffer.cpp",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketBuffer.cpp",
-              "RelativeDocumentMoniker": "RelayServer\\PacketBuffer.cpp",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketBuffer.cpp",
-              "RelativeToolTip": "RelayServer\\PacketBuffer.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwDAAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-21T14:00:19.359Z",
-              "EditorCaption": ""
+              "Title": "ErrorLogger.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ErrorLogger.h",
+              "RelativeDocumentMoniker": "RelayServer\\ErrorLogger.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\ErrorLogger.h",
+              "RelativeToolTip": "RelayServer\\ErrorLogger.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-26T12:20:42.667Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
               "Title": "PacketBuffer.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketBuffer.h",
+              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketBuffer.h",
               "RelativeDocumentMoniker": "RelayServer\\PacketBuffer.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketBuffer.h",
+              "ToolTip": "C:\\Users\\zino\\Desktop\\game_server_project\\RelayServer\\RelayServer\\PacketBuffer.h",
               "RelativeToolTip": "RelayServer\\PacketBuffer.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-21T14:04:19.079Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "PacketType.h",
-              "DocumentMoniker": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketType.h",
-              "RelativeDocumentMoniker": "RelayServer\\PacketType.h",
-              "ToolTip": "C:\\Users\\zino\\Desktop\\Liar\u0027s Bar\\RelayServer\\RelayServer\\PacketType.h",
-              "RelativeToolTip": "RelayServer\\PacketType.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-21T13:57:54.714Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-21T14:04:19.079Z"
             }
           ]
         }

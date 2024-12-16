@@ -2,7 +2,7 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>C:\Users\zino\Desktop\Liar's Bar\RelayServer\x64\Debug\RelayServer.exe</FullPath>
+      <FullPath>C:\Users\zino\Desktop\game_server_project\RelayServer\x64\Debug\RelayServer.exe</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

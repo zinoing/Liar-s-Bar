@@ -30,6 +30,7 @@ void PacketManager::handlePacket(PacketBuffer& packet)
 			else {
 				PacketBuffer packetToSend;
 				packetToSend.writeString(uniqueKey);
+				packetToSend.writeString(id);
 				server->sendMessage(serializePacket(ServerPacketType::REJECT_LOG_IN, packetToSend));
 			}
 			break;
@@ -46,11 +47,13 @@ void PacketManager::handlePacket(PacketBuffer& packet)
 			if (dbConnector->registerUser(id, passsword)) {
 				PacketBuffer packetToSend;
 				packetToSend.writeString(uniqueKey);
+				packetToSend.writeString(id);
 				server->sendMessage(serializePacket(ServerPacketType::ACCEPT_REGISTER, packetToSend));
 			}
 			else {
 				PacketBuffer packetToSend;
 				packetToSend.writeString(uniqueKey);
+				packetToSend.writeString(id);
 				server->sendMessage(serializePacket(ServerPacketType::REJECT_REGISTER, packetToSend));
 			}
 			break;
